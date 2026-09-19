@@ -18,6 +18,15 @@ Mechanical split-flap displays — the ones that clatter through the alphabet in
 old train stations — rendered in SwiftUI. Tiles flip, rows spell themselves out
 left to right, and nothing depends on anything but SwiftUI.
 
+## What's in it
+
+| | |
+|---|---|
+| `SplitFlapRow` | a line of tiles that flips when the text changes |
+| `SplitFlapTile` | one tile, if you want to build your own layout |
+| `SplitFlapStaticRow` | the same look in a single `Canvas` pass, for rows that never change |
+| `SplitFlapTheme` | two colours, plus four bundled |
+
 ## Installation
 
 Add the package in Xcode via **File → Add Package Dependencies**, or in
@@ -72,7 +81,7 @@ time a row changes, and what happens next is yours:
 
 ```swift
 SplitFlapRow(text: gate, theme: .classic, columns: 4) {
-    SoundEffect.clack.play()
+    playClack()  // your sound, your haptic, or nothing — the package has no opinion
 }
 ```
 
