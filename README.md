@@ -4,6 +4,7 @@
 
 <div align="center">
 
+[![CI](https://github.com/Staberman/splitflap/actions/workflows/ci.yml/badge.svg)](https://github.com/Staberman/splitflap/actions/workflows/ci.yml)
 [![Swift 5.9](https://img.shields.io/badge/Swift-5.9+-F05138?style=flat-square&logo=swift&logoColor=white)](https://swift.org)
 [![Platforms](https://img.shields.io/badge/iOS%2017%20%7C%20macOS%2014%20%7C%20tvOS%2017%20%7C%20visionOS%201-1B1B1B?style=flat-square)](#requirements)
 [![SPM](https://img.shields.io/badge/SPM-compatible-success?style=flat-square)](#installation)
