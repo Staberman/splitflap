@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Assets/preview.svg" alt="SplitFlap — a SwiftUI split-flap departure board" width="100%">
+  <img src="Assets/demo.gif" alt="SplitFlap — a SwiftUI split-flap departure board" width="100%">
 </div>
 
 <div align="center">
