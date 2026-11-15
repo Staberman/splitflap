@@ -5,8 +5,8 @@
 <div align="center">
 
 [![CI](https://github.com/Staberman/splitflap/actions/workflows/ci.yml/badge.svg)](https://github.com/Staberman/splitflap/actions/workflows/ci.yml)
-[![Swift 5.9](https://img.shields.io/badge/Swift-5.9+-F05138?style=flat-square&logo=swift&logoColor=white)](https://swift.org)
-[![Platforms](https://img.shields.io/badge/iOS%2017%20%7C%20macOS%2014%20%7C%20tvOS%2017%20%7C%20visionOS%201-1B1B1B?style=flat-square)](#requirements)
+[![Swift versions](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FStaberman%2Fsplitflap%2Fbadge%3Ftype%3Dswift-versions&style=flat-square)](https://swiftpackageindex.com/Staberman/splitflap)
+[![Platforms](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FStaberman%2Fsplitflap%2Fbadge%3Ftype%3Dplatforms&style=flat-square)](https://swiftpackageindex.com/Staberman/splitflap)
 [![SPM](https://img.shields.io/badge/SPM-compatible-success?style=flat-square)](#installation)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
